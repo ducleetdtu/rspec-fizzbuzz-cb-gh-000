@@ -7,4 +7,4 @@ def fizzbuzz(num)
   else return nil
   end
 end
-fizzbuzz(5)
+puts fizzbuzz(5)
